@@ -1,0 +1,48 @@
+.centrar{
+    text-align: center;
+    
+}
+.arial{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.justificado{
+    text-align: justify;
+    margin: 30px auto; 
+    width: 80%; 
+}
+
+.li{
+    list-style-type: none;
+}
+.esquinaup{
+    text-align: right;
+}
+.article  {
+    width: 200px; 
+    height: auto; 
+    float: left; 
+    margin-right: 20px; 
+    margin-top: 10px;
+    
+    
+}
+
+.centrar2{
+    flex-grow: 1; 
+    text-align: center; 
+    text-align: justify;
+      
+}
+.contenedor {
+    display: flex; 
+    align-items: center; 
+}
+
+.articleg{
+    width: 400px; 
+    height: auto; 
+    float: left; 
+    margin-right: 20px; 
+    margin-top: 10px;
+}
