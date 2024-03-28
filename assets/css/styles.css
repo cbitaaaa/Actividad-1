@@ -51,7 +51,7 @@
 
 
 
-
+/*          */
 
 
 
@@ -82,11 +82,13 @@
 
 
 .espacio {
-    margin-top: 2rem; /* Espacio entre la imagen y el nombre del animal */
+    margin-top: 2rem; 
 }
+
 h1 {
-    margin-top: 30px; /* Distancia desde arriba */
+    margin-top: 30px;
 }
+
 .imagen2  {
     width: 200px; 
     height: auto; 
@@ -98,5 +100,47 @@ h1 {
 }
 .imagen-izquierda {
     float: left;
-    margin-right: 20px; /* Opcional: añade un margen derecho para separar el contenido */
+    margin-right: 20px; 
 }
+
+
+/*           */
+
+
+
+
+
+
+.imagen-perro {
+    width: 100%;
+    height: auto;
+    max-width: 250px;
+    display: block;
+    float: left;
+    margin-right: 20px;
+}
+
+.imagen-perro2 {
+    width: 100%;
+    height: auto;
+    max-width: 400px;
+    display: block;
+    float: left;
+    margin-right: 20px;
+}
+
+
+.contenedor-imagen {
+    display: flex; 
+    align-items: center; 
+    margin-bottom: 20px; 
+}
+
+
+.centrar3{
+    flex-grow: 1; 
+    text-align: center; 
+    text-align: justify;
+
+}
+
