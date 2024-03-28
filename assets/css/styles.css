@@ -1,0 +1,57 @@
+.centrar{
+    text-align: center;
+}
+
+
+.arial{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.justificado {
+    text-align: justify;
+    margin: 20px auto; 
+    width: 80%; 
+}
+
+.li{
+    list-style-type: none;
+}
+.esquinaup{
+    text-align: right;
+}
+
+.imagen-perro {
+    width: 100%;
+    height: auto;
+    max-width: 250px;
+    display: block;
+    float: left;
+    margin-right: 20px;
+}
+
+.imagen-perro2 {
+    width: 100%;
+    height: auto;
+    max-width: 400px;
+    display: block;
+    float: left;
+    margin-right: 20px;
+}
+
+
+.contenedor-imagen {
+    display: flex; /* Utiliza flexbox para organizar los elementos */
+    align-items: center; /* Centra los elementos verticalmente */
+    margin-bottom: 20px; /* Añade espacio entre cada conjunto de imagen y título */
+}
+
+.li{
+    list-style-type: none;
+}
+
+.centrar2{
+    flex-grow: 1; 
+    text-align: center; 
+    text-align: justify;
+
+}
