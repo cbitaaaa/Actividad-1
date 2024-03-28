@@ -1,6 +1,5 @@
 .centrar{
     text-align: center;
-<<<<<<< HEAD
     
 }
 .arial{
@@ -10,18 +9,6 @@
 .justificado{
     text-align: justify;
     margin: 30px auto; 
-=======
-}
-
-
-.arial{
-    font-family: Arial, Helvetica, sans-serif;
-}
-
-.justificado {
-    text-align: justify;
-    margin: 20px auto; 
->>>>>>> 62e421816d78dc5246cc6a462a1bd73531e6acba
     width: 80%; 
 }
 
@@ -31,7 +18,6 @@
 .esquinaup{
     text-align: right;
 }
-<<<<<<< HEAD
 .article  {
     width: 200px; 
     height: auto; 
@@ -124,8 +110,6 @@ h1 {
 
 
 
-=======
->>>>>>> 62e421816d78dc5246cc6a462a1bd73531e6acba
 
 .imagen-perro {
     width: 100%;
@@ -147,7 +131,6 @@ h1 {
 
 
 .contenedor-imagen {
-<<<<<<< HEAD
     display: flex; 
     align-items: center; 
     margin-bottom: 20px; 
@@ -155,25 +138,8 @@ h1 {
 
 
 .centrar3{
-=======
-    display: flex; /* Utiliza flexbox para organizar los elementos */
-    align-items: center; /* Centra los elementos verticalmente */
-    margin-bottom: 20px; /* Añade espacio entre cada conjunto de imagen y título */
-}
-
-.li{
-    list-style-type: none;
-}
-
-.centrar2{
->>>>>>> 62e421816d78dc5246cc6a462a1bd73531e6acba
     flex-grow: 1; 
     text-align: center; 
     text-align: justify;
 
-<<<<<<< HEAD
 }
-
-=======
-}
->>>>>>> 62e421816d78dc5246cc6a462a1bd73531e6acba
